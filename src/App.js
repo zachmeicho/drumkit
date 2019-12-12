@@ -3,8 +3,8 @@ import './App.css';
 
 const data = [
 
-  { id: 'Applause', letter: 'A', src: 'sounds/Applause.mp3' },
-  { id: 'Bass', letter: 'S', src: 'sounds/Air Horn.mp3' },
+  { id: 'Applause', letter: 'A', src: 'sounds/applause.mp3' },
+  { id: 'Air Horn', letter: 'S', src: 'sounds/airhorn.mp3' },
   { id: 'High Hat', letter: 'D', src: 'http://www.denhaku.com/r_box/tr707/closed.wav' }
 ]
 
