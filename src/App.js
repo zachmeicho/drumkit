@@ -5,11 +5,11 @@ const data = [
 
   { id: 'Applause', letter: 'A', src: '..sounds/spplause.mp3' },
   { id: 'Air Horn', letter: 'S', src: '..sounds/airhorn.mp3' },
-  { id: 'Bowling', letter: 'D', src: 'sounds/bowling.mp3' }
-  { id: 'Chewbacca', letter: 'F', src: 'sounds/chewbacca.mp3' }
-  { id: 'Dial Up', letter: 'G', src: 'sounds/dialup.mp3' }
-  { id: 'Duck', letter: 'H', src: 'sounds/duck.mp3' }
-  { id: 'Microsoft', letter: 'J', src: 'sounds/microsoft.mp3' }
+  { id: 'Bowling', letter: 'D', src: 'sounds/bowling.mp3' },
+  { id: 'Chewbacca', letter: 'F', src: 'sounds/chewbacca.mp3' },
+  { id: 'Dial Up', letter: 'G', src: 'sounds/dialup.mp3' },
+  { id: 'Duck', letter: 'H', src: 'sounds/duck.mp3' },
+  { id: 'Microsoft', letter: 'J', src: 'sounds/microsoft.mp3' },
   { id: 'Police', letter: 'K', src: 'sounds/police.mp3' }
 ]
 
