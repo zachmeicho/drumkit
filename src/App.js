@@ -3,14 +3,14 @@ import './App.css';
 
 const data = [
 
-  { id: 'Applause', letter: 'A', src: '..sounds/spplause.mp3' },
-  { id: 'Air Horn', letter: 'S', src: '..sounds/airhorn.mp3' },
-  { id: 'Bowling', letter: 'D', src: 'sounds/bowling.mp3' },
-  { id: 'Chewbacca', letter: 'F', src: 'sounds/chewbacca.mp3' },
-  { id: 'Dial Up', letter: 'G', src: 'sounds/dialup.mp3' },
-  { id: 'Duck', letter: 'H', src: 'sounds/duck.mp3' },
-  { id: 'Microsoft', letter: 'J', src: 'sounds/microsoft.mp3' },
-  { id: 'Police', letter: 'K', src: 'sounds/police.mp3' }
+  { id: 'Applause', letter: 'A', src: 'https://raw.githubusercontent.com/zachmeicho/web-3-soundboard/master/spplause.mp3' },
+  { id: 'Air Horn', letter: 'S', src: 'https://raw.githubusercontent.com/zachmeicho/web-3-soundboard/master/airhorn.mp3' },
+  { id: 'Bowling', letter: 'D', src: 'https://raw.githubusercontent.com/zachmeicho/web-3-soundboard/master/bowling.mp3' },
+  { id: 'Chewbacca', letter: 'F', src: 'https://raw.githubusercontent.com/zachmeicho/web-3-soundboard/master/chewbacca.mp3' },
+  { id: 'Dial Up', letter: 'G', src: 'https://raw.githubusercontent.com/zachmeicho/web-3-soundboard/master/dialup.mp3' },
+  { id: 'Duck', letter: 'H', src: 'https://raw.githubusercontent.com/zachmeicho/web-3-soundboard/master/duck.mp3' },
+  { id: 'Microsoft', letter: 'J', src: 'https://raw.githubusercontent.com/zachmeicho/web-3-soundboard/master/microsoft.mp3' },
+  { id: 'Police', letter: 'K', src: 'https://raw.githubusercontent.com/zachmeicho/web-3-soundboard/master/police.mp3' }
 ]
 
 class DrumPad extends React.Component {
