@@ -3,7 +3,7 @@ import './App.css';
 
 const data = [
 
-  { id: 'Tom Tom', letter: 'A', src: 'http://www.denhaku.com/r_box/sr16/sr16tom/loelectm.wav' },
+  { id: 'Applause', letter: 'A', src: 'sounds\Applause.mp3' },
   { id: 'Bass', letter: 'S', src: 'http://billor.chsh.chc.edu.tw/sound/bass4.wav' },
   { id: 'High Hat', letter: 'D', src: 'http://www.denhaku.com/r_box/tr707/closed.wav' }
 ]
